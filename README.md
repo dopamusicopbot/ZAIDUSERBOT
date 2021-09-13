@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<b>𝙕𝘼𝙄𝘿 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 {🔥}</b>
+<b>Tᴄ-Dᴏᴘᴀ Usᴇʀʙᴏᴛ {🔥}</b>
 
 </h1>
 
@@ -8,25 +8,25 @@
 
   <img src="https://telegra.ph/file/cf07e1ae28b78983ad596.jpg" alt="The-ᴢᴀɪᴅ ᴜꜱᴇʀʙᴏᴛ">
 
-𝚉𝚊𝚒𝚍 𝙱𝚕𝚊𝚌𝚔 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 𝙱𝚊𝚜𝚎𝚍 𝙾𝚗 𝚃𝚎𝚕𝚎𝚝𝚑𝚘𝚗
+Tᴄ-Dᴏᴘᴀ ᴏᴘ 𝚄𝚜𝚎𝚛𝚋𝚘𝚝 𝙱𝚊𝚜𝚎𝚍 𝙾𝚗 𝚃𝚎𝚕𝚎𝚝𝚑𝚘𝚗
 
-- 𝚉𝙰𝙸𝙳 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙷𝙰𝚅𝙴 𝟹𝟶𝟶 + 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 𝙿𝚁𝙾𝚅𝙸𝙳𝙴𝚂 𝚄 𝙱𝙴𝚃𝚃𝙴𝚁 𝚃𝙰𝚂𝚃𝙴 𝙾𝙵 𝙵𝙰𝚂𝚃𝙴𝚁 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙾𝚁 𝚂𝙼𝙾𝚃𝙷𝙽𝙴𝚂𝚂 𝙴𝚇𝙿𝙸𝚁𝙴𝙽𝙲𝙴 </p>
+-Tᴄ-Dᴏᴘᴀ 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙷𝙰𝚅𝙴 𝟹𝟶𝟶 + 𝙿𝙻𝚄𝙶𝙸𝙽𝚂 𝙿𝚁𝙾𝚅𝙸𝙳𝙴𝚂 𝚄 𝙱𝙴𝚃𝚃𝙴𝚁 𝚃𝙰𝚂𝚃𝙴 𝙾𝙵 𝙵𝙰𝚂𝚃𝙴𝚁 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝙾𝚁 𝚂𝙼𝙾𝚃𝙷𝙽𝙴𝚂𝚂 𝙴𝚇𝙿𝙸𝚁𝙴𝙽𝙲𝙴 </p>
 
 ## Repo Stats
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Itsunknown-12&repo=ZAIDUSERBOT&theme=dark)
 
-## ᴄʀᴇᴀᴅɪᴛꜱ : [𝒁𝑨𝑰𝑫](https://t.me/Zaid_updates)
+## ᴄʀᴇᴀᴅɪᴛꜱ : [Tᴄ-Dᴏᴘᴀ](https://t.me/universal_op_chat)
 
 ## ᴀɴᴅ : [𝑻𝑬𝑨𝑴 𝑷𝑨𝑻𝑹𝑰𝑪𝑰𝑨/𝑿𝒅 𝑩𝒐𝒕𝒔](https://t.me/TGbotzXD)
 ---------------
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
-- <a href="https://t.me/Zaid_Support"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/universal_op_chat"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 
  
 
-- <a href="https://t.me/Zaid_Updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/universal_op_chat"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
